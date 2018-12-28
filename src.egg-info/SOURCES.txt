@@ -5,6 +5,8 @@ src.egg-info/PKG-INFO
 src.egg-info/SOURCES.txt
 src.egg-info/dependency_links.txt
 src.egg-info/top_level.txt
+src/cluster/__init__.py
+src/cluster/k_means.py
 src/linear_model/__init__.py
 src/linear_model/bayesian_regression.py
 src/linear_model/lasso.py
