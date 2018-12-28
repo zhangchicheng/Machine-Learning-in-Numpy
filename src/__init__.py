@@ -1,9 +1,11 @@
 from src import (
     linear_model,
-    neighbors
+    neighbors,
+    tree
 )
 
 __all__ = [
     "linear_model",
-    "neighbors"
+    "neighbors",
+    "tree"
 ]
