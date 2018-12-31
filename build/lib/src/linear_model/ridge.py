@@ -10,6 +10,9 @@ class Ridge(LinearModel):
     alpha : regularization strength
     eta : learning rate
     iter : num of times the parameters are updated
+
+    Attributes
+    ----------
     coef_ : weights
     cost_ : average error of the model
     intercept_ : independent term

@@ -14,6 +14,8 @@ src/linear_model/linear_model.py
 src/linear_model/linear_regression.py
 src/linear_model/logistic_regression.py
 src/linear_model/ridge.py
+src/mixture/__init__.py
+src/mixture/gaussian_mixture.py
 src/neighbors/__init__.py
 src/neighbors/k_neighbors_classifier.py
 src/neighbors/kd_tree.py

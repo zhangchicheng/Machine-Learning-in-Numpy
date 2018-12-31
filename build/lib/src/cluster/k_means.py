@@ -3,6 +3,18 @@ import numpy as np
 class KMeans():
     """
     KMeans
+
+    Parameters
+    ----------
+    n_clusters : The number of clusters.
+    n_init : Number of time the k-means algorithm will be run with different initial centroid.
+    tol : Absolute tolerance with centroid in iterations to declare convergence
+
+    Attributes
+    ----------
+    cluster_centers_ : Coordinates of cluster centers.
+    labels_ : Labels of each point
+    inertia_ : Sum of squared distances of samples to their closest cluster center.
     """
 
     def __init__(self, n_clusters=2, n_init=10, tol=0.0001):

@@ -2,12 +2,14 @@ from src import (
     linear_model,
     neighbors,
     tree,
-    cluster
+    cluster,
+    mixture
 )
 
 __all__ = [
     "linear_model",
     "neighbors",
     "tree",
-    "cluster"
+    "cluster",
+    "mixture"
 ]
