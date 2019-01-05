@@ -19,5 +19,7 @@ src/mixture/gaussian_mixture.py
 src/neighbors/__init__.py
 src/neighbors/k_neighbors_classifier.py
 src/neighbors/kd_tree.py
+src/svm/__init__.py
+src/svm/svc.py
 src/tree/__init__.py
 src/tree/decision_tree_classifier.py

@@ -3,7 +3,8 @@ from src import (
     neighbors,
     tree,
     cluster,
-    mixture
+    mixture,
+    svm
 )
 
 __all__ = [
@@ -12,4 +13,5 @@ __all__ = [
     "tree",
     "cluster",
     "mixture"
+    "svm"
 ]

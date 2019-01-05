@@ -10,7 +10,6 @@ class KDTree():
         idx = np.argsort(X[:,pivot])
         median = len(idx) // 2
 
-
         self.val = X[idx[median]]
         self.pivot = pivot
         self.label = None
