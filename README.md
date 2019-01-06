@@ -5,7 +5,7 @@ This repository contains Python implementations of some common machine learning 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What you need
 
 ```
 numpy
