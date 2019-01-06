@@ -6,6 +6,8 @@ This repository contains Python implementations of some common machine learning 
 ### Implemented:
 * [Linear Regression](ml/linear_model/linear_regression.py)
 * [Logistic Regression](ml/linear_model/logistic_regression.py)
+* [Ridge Regression](ml/linear_model/ridge.py)
+* [Lasso Regression](ml/linear_model/lasso.py)
 * [Bayesian Linear Regression](ml/linear_model/bayesian_regression.py)
 * [Decision Tree Classifier](ml/tree/decision_tree_classifier.py)
 * [K Means](ml/cluster/k_means.py)
