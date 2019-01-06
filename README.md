@@ -3,6 +3,17 @@ This repository contains Python implementations of some common machine learning 
 
 ## Getting Started
 
+### Implemented:
+* [Linear Regression](ml/linear_model/linear_regression.py)
+* [Logistic Regression](ml/linear_model/logistic_regression.py)
+* [Bayesian Linear Regression](ml/linear_model/bayesian_regression.py)
+* [Decision Tree Classifier](ml/tree/decision_tree_classifier.py)
+* [K Means](ml/cluster/k_means.py)
+* [Gaussian Mixture Model](ml/mixture/gaussian_mixture.py)
+* [K Neighbors Classifier](ml/tree/k_neighbors_classifier.py)
+* [Naive Bayes](ml/naive_bayes/gaussian_naive_bayes.py)
+* [Support Vector Classifier](ml/svm/svc.py)
+
 ### Prerequisites
 
 What you need
