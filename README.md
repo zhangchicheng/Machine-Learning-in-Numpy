@@ -1,6 +1,5 @@
 # Machine Learning From Scratch
-This repository contains Python implementations of some common machine learning algorithms. The purpose of this project is to explore the inner mechanism of these algotithms. Although there are a bunch of similar repositories in GitHub, I found many of them are hard to understand and lack of optimization.
-
+This repository contains Python implementations of some common machine learning algorithms. Although there are a bunch of similar repositories in GitHub, I found many of them are hard to understand and lack of optimization. The purpose of this project is to explore the inner mechanism of these algotithms.
 ## Getting Started
 
 ### Implemented:
