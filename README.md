@@ -21,7 +21,7 @@ What you need
 
 ```
 numpy
-sklearn (for test)
+sklearn (for validation)
 matplotlib (for visualization)
 ```
 
