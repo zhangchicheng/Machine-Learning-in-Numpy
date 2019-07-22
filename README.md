@@ -21,8 +21,8 @@ What you need
 
 ```
 numpy
-sklearn
-matplotlib
+sklearn (for test)
+matplotlib (for visualization)
 ```
 
 ### Installing
