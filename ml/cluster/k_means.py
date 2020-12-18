@@ -30,6 +30,8 @@ class KMeans():
         for i in range(self.n_init):
             centers = X[np.random.choice(len(X), self.n_clusters)]
             diff = np.inf
+            labels = -1
+            dist = np.inf
             while diff > self.tol:
                 dist = np.dot(np.square(centers), np.ones(X.T.shape)) + \
                        np.dot(np.ones(centers.shape), np.square(X.T)) - \
